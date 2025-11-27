@@ -1,5 +1,12 @@
 # Changelog
 
+## [25.79.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.78.0...v25.79.0) (2025-11-27)
+
+
+### Features
+
+* Iris iL07_1: expose battery ([#10880](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10880)) ([177e497](https://github.com/Koenkk/zigbee-herdsman-converters/commit/177e497e56b8482d71d65ebf62846d935f0fb419))
+
 ## [25.78.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.77.0...v25.78.0) (2025-11-27)
 
 
